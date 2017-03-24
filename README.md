@@ -8,6 +8,7 @@ It's still early in the planning phase, but here's what we know:
 - _It will be on a weekend during **October 2017**_
 
 
+
 If you're excited about Python, and potentially interested in participating in Florida PyCon, please take our short survey:
 
 ### [Florida PyCon Survey](https://goo.gl/forms/7NkK6bW2haJ8Q9Rp1)
