@@ -4,10 +4,12 @@ We are currently in the initial stages of planning the first ever Florida PyCon!
 
 It's still early in the planning phase, but here's what we know:
 
+------
+
 - _The host city will be **Orlando, FL**_
 - _It will be on a weekend during **October 2017**_
 
-
+-----
 
 If you're excited about Python, and potentially interested in participating in Florida PyCon, please take our short survey:
 
