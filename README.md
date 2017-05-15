@@ -6,8 +6,13 @@ It's still early in the planning phase, but here's what we know:
 
 ------
 
-- _The host city will be **Orlando, FL**_
-- _It will be on a weekend during **October 2017**_
+- Florida PyCon will be the **first Saturday in October** (2017-10-07) from **8AM to 5PM**
+- The conference will be held in **Orlando, FL** at the Exchange downtown:
+    Church Street Station Exchange
+    101 S Garland Ave
+    Orlando, FL  32801
+- To provide the best experience for attendees in our first year, we will be **limiting attendance**. We're still working on the exact number
+- We will be kickstarting Orlando Tech Week with the [Orlando Tech Association](http://orlandotech.org)
 
 -----
 
