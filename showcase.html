@@ -1,0 +1,15 @@
+---
+layout: page
+title: Showcase
+description: "A group of websites built using themes and templates from Start Bootstrap."
+meta-title: "Bootstrap Website Showcase"
+meta-description: "A showcase of Bootstrap built websites created using themes and templates from Start Bootstrap's free template library."
+---
+
+<ul>
+{% for item in site.showcase reversed %}
+
+    <li>{{ item.title }}</li>
+
+{% endfor %}
+</ul>
