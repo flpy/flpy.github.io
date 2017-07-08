@@ -1,0 +1,43 @@
+# Site Information
+license:          "MIT"
+license-url:      "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+author:           "FL Pycon"
+
+# Site Settings
+baseurl:          "http://www.flpy.org"
+
+# Build settings
+exclude:          [node_modules]
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Server
+url:              https://startbootstrap.com
+enforce_ssl:      startbootstrap.com
+encoding:         UTF-8
+host:             0.0.0.0
+port:             9001
+
+# Gems
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - rouge
+
+# Collections
+collections:
+  premium:
+    output: false
+  templates:
+    output: true
+    permalink: /template-overviews/:title/
+
+# Pagination
+paginate: 5
+paginate_path: "/articles/page:num/"

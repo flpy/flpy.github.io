@@ -1,0 +1,22 @@
+// Navigation
+.sb-navbar {
+    background-color: white;
+    border-bottom: 1px solid $gray-lighter;
+    .navbar-toggler {
+        font-size: 12px;
+        text-transform: uppercase;
+        padding: 13px;
+        @include heading-font;
+        i {
+            margin-right: 2px;
+            font-size: 10px;
+        }
+    }
+    .navbar-brand {
+        color: $navbar-light-color;
+        @include heading-font;
+    }
+    .navbar-right li a:focus {
+        outline: none;
+    }
+}
