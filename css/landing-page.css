@@ -343,7 +343,7 @@ p.copyright {
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(http://www.underconsideration.com/brandnew/archives/google_2015_logo_detail.png)
+  background-image: url(http://www.seattleite.com/wp-content/uploads/2011/05/comingsoon.gif)
 }
 .talk-title {
   font-style: italic;
@@ -351,3 +351,12 @@ p.copyright {
 }
 
 /** End of cards for speakers **/
+
+.btn-circle{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 2px 0px 0px 0px;
+    border-radius: 15px;
+}
+}
