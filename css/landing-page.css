@@ -52,6 +52,16 @@ h6 {
     background-size: cover;
 }
 
+.intro-header-sm {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/banner-orl.png) no-repeat center center;
+    background-size: cover;
+    height: 80%;
+}
+
 .intro-message {
     position: relative;
     padding-top: 10%;
@@ -205,6 +215,13 @@ p.copyright {
     
 }
 
+.logo-inside {
+    width: 100%;
+    padding-bottom: 15px;
+    filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.3));
+    
+}
+
 #shadow {
     shadow: 2px 2px 3px rgba(0,0,0,0.3);
 }
@@ -297,3 +314,40 @@ p.copyright {
 .speakers {
     padding-top:5%;
 }
+
+/** Cards for speakers**/
+
+.card{
+  margin: 0px 0px 30px 0px;
+  padding: 30px 0px 30px 0px;
+  background-color: white;
+}
+
+.headshot {
+  margin: auto;
+  border: 4px solid;
+  border-color: orange;
+  border-radius: 500px;
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  background-image: url(http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg);
+}
+.company {
+  margin: 20px auto;
+  height: 50px;
+  /** width: 300px; **/
+  
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url(http://www.underconsideration.com/brandnew/archives/google_2015_logo_detail.png)
+}
+.talk-title {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/** End of cards for speakers **/
