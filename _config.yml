@@ -4,7 +4,7 @@ license-url:      "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pa
 author:           "FL Pycon"
 
 # Site Settings
-baseurl:          "http://www.flpy.org"
+baseurl:          
 
 # Build settings
 exclude:          [node_modules]
